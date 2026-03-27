@@ -1,0 +1,7 @@
+{
+  "name": "Echo Delay Recorder",
+  "description": "Records ambient sound and plays it back automatically after a configurable delay.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
